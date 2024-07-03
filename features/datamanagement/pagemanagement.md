@@ -12,7 +12,7 @@ permalink: /features/datamanagement/pagemanagement.html
 
 # Page Management
 
-DDV is using [`Interface IDocument`]({{ site.api }}interface/idocument/index.html) to manage the page data. 
+Dynamsoft Document Viewer is using [`Interface IDocument`]({{ site.api }}interface/idocument/index.html) to manage the page data. 
 
 
 ## Load pages

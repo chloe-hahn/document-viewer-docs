@@ -71,6 +71,6 @@ Besides using the default user interface and viewer directly, developers can eas
 
 #### Advanced Features
 
-DDV provides methods to access document boundaries detection and image filter algorithms.
+Dynamsoft Document Viewer provides methods to access document boundaries detection and image filter algorithms.
 - [Image filter](https://www.dynamsoft.com/document-viewer/docs/features/advanced/imagefilter.html): Image filter algorithm which is used by Filter element in Edit Viewer.
 - [Document detection](https://www.dynamsoft.com/document-viewer/docs/features/advanced/documentdetect.html): Document boundaries detection algorithm which is used during capturing images. Recommend using [Dynamsoft Document Normalizer](https://www.dynamsoft.com/document-normalizer/docs/web/programming/javascript/).

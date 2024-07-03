@@ -12,7 +12,7 @@ permalink: /features/advanced/documentdetect.html
 
 # How to configure boundaries detection
 
-DDV provides [`setProcessingHandler()`]({{ site.api }}namespace/ddv.html#static-setprocessinghandler) method for developers to access the corresponding document boundaries detection and image filter algorithms. This article mainly introduces how to configure boundaries detection in the process of capturing documents.
+Dynamsoft Document Viewer provides [`setProcessingHandler()`]({{ site.api }}namespace/ddv.html#static-setprocessinghandler) method for developers to access the corresponding document boundaries detection and image filter algorithms. This article mainly introduces how to configure boundaries detection in the process of capturing documents.
 
 As you may know, Dynamsoft has an SDK which is named [Dynamsoft Document Normalizer](https://www.dynamsoft.com/document-normalizer/docs/web/programming/javascript/user-guide/index.html#check-the-code) and it contains two main features, "Detect the document boundaries" and "Normalize the document based on the detected boundaries". Let us take its "Detect the document boundaries" feature as the example document boundaries detection algorithm.
 

@@ -12,9 +12,9 @@ permalink: /features/datamanagement/docmanagement.html
 
 # Document Management
 
-DDV manages document data through the [`DocumentManager`]({{ site.api }}class/documentmanager.html) class, which can implement functions such as creating, deleting, and merging documents.
+Dynamsoft Document Viewer manages document data through the [`DocumentManager`]({{ site.api }}class/documentmanager.html) class, which can implement functions such as creating, deleting, and merging documents.
 
-The `Dynamsoft.DDV.documentManager` instance will be created automatically as soon as DDV is initialized.
+The `Dynamsoft.DDV.documentManager` instance will be created automatically as soon as Dynamsoft Document Viewer is initialized.
 
 ## Create a new document
 
@@ -38,7 +38,7 @@ const secondDoc = docManager.createDocument();
 
 ## Merge documents
 
-DDV provides the method [`mergeDocuments()`]({{ site.api }}class/documentmanager.html#mergedocuments) to merge the specified documents to a new document. 
+Dynamsoft Document Viewer provides the method [`mergeDocuments()`]({{ site.api }}class/documentmanager.html#mergedocuments) to merge the specified documents to a new document. 
 
 Take two documents which are created above as an example and merge them to a new document `mergedDoc` and delete the original documents.
 
@@ -62,7 +62,7 @@ const mergedDoc = docManager.mergeDocuments([docUid1, docUid2], mergeOptions);
 
 ## Copy or move pages from a specified document to another
 
-Sometimes, may need to copy or move some pages in specified document to another document. DDV has two methods [`copyPagesToDocument()`]({{ site.api }}class/documentmanager.html#copypagestodocument) and [`movePagesToDocument()`]({{ site.api }}class/documentmanager.html#movepagestodocument) which can achieve this scenario.
+Sometimes, may need to copy or move some pages in specified document to another document. Dynamsoft Document Viewer has two methods [`copyPagesToDocument()`]({{ site.api }}class/documentmanager.html#copypagestodocument) and [`movePagesToDocument()`]({{ site.api }}class/documentmanager.html#movepagestodocument) which can achieve this scenario.
 
 **Use case**
 

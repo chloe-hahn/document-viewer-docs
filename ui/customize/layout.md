@@ -12,7 +12,7 @@ permalink: /ui/customize/layout.html
 
 # Layout
 
-The default UI provided by DDV is basically a top-down layout. Taking the default desktop UI of EditViewer as an example, the header serves as the toolbar, and the main view is located below the toolbar.
+The default UI provided by Dynamsoft Document Viewer is basically a top-down layout. Taking the default desktop UI of EditViewer as an example, the header serves as the toolbar, and the main view is located below the toolbar.
 
 ![Header & main view](/assets/imgs/cuslayoutbefore.png)
 

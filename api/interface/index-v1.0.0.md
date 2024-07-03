@@ -10,7 +10,7 @@ description: Dynamsoft Document Viewer Documentation API Reference Interface Ind
 permalink: /api/interface/index-v1.0.0.html
 ---
 
-# DDV Interfaces
+# Dynamsoft Document Viewer Interfaces
 
 - [`IDocument`]({{ site.api }}interface/idocument/index.html)
     - [`Source`]({{ site.api }}interface/idocument/source.html)

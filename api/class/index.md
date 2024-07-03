@@ -11,7 +11,7 @@ permalink: /api/class/index.html
 ---
 
 
-# DDV Class
+# Dynamsoft Document Viewer Class
 
 Dynamsoft Document Viewer Javascript library comes with six primary classes:
 
@@ -28,7 +28,7 @@ Dynamsoft Document Viewer Javascript library comes with six primary classes:
 
 ## [DocumentManager Class]({{ site.api }}class/documentmanager.html)
 
-The `Dynamsoft.DDV.documentManager` instance will be created automatically as soon as DDV is initialized. Please refer to [`documentManager`]({{ site.api }}namespace/ddv.html#static-documentmanager).
+The `Dynamsoft.DDV.documentManager` instance will be created automatically as soon as Dynamsoft Document Viewer is initialized. Please refer to [`documentManager`]({{ site.api }}namespace/ddv.html#static-documentmanager).
 
 **Methods**
 

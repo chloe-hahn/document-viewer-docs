@@ -25,7 +25,7 @@ We’ll build on this skeleton page:
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>DDV - HelloWorld</title>
+    <title>Dynamsoft Document Viewer - HelloWorld</title>
 </head>
 <body>
 </body>
@@ -101,7 +101,7 @@ const editViewer = new Dynamsoft.DDV.EditViewer({
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>DDV - HelloWorld</title>
+    <title>Dynamsoft Document Viewer - HelloWorld</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/dynamsoft-document-viewer@1.0.0/dist/ddv.css">
     <script src="https://cdn.jsdelivr.net/npm/dynamsoft-document-viewer@1.0.0/dist/ddv.js"></script>
 </head>

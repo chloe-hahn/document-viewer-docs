@@ -31,7 +31,7 @@ Quadrilateral Selection in the perspective viewer means the selection which will
 
 ![Quad selection](/assets/imgs/quadselection.png)
 
-In addition to drawing and adjusting the selection through the UI, DDV also provides some additional interfaces to operate the selection.
+In addition to drawing and adjusting the selection through the UI, Dynamsoft Document Viewer also provides some additional interfaces to operate the selection.
 
 - Set a quadrilateral selection on the current page by using [`setQuadSelection()`]({{ site.api }}class/perspectiveviewer.html#setquadselection). If the selection is exceeds the bounds of the current page, it won't take effect.
 

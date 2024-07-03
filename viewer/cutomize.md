@@ -12,7 +12,7 @@ permalink: /viewer/customize.html
 
 # How to customize viewer 
 
-Altough DDV has provided the default ViewerConfig for each type of viewer, developer can also customize it as needed.
+Although Dynamsoft Document Viewer has provided the default ViewerConfig for each type of viewer, developer can also customize it as needed.
 
 ViewerConfig contains two parts of configuration, one is the configuration on the viewer style and the other is the configuration on the viewer properties.
 
@@ -53,7 +53,7 @@ Please notice that only the customized style will be modified, and the remaining
 
 ### Update styles dynamically
 
-Besides customize the initial viewer style, DDV also allows update the styles dynamically after the viewer is created by using [`getStyle()`]({{ site.api }}class/editviewer.html#getstyle) & [`updateStyle()`]({{ site.api }}class/editviewer.html#updatestyle).
+Besides customize the initial viewer style, Dynamsoft Document Viewer also allows update the styles dynamically after the viewer is created by using [`getStyle()`]({{ site.api }}class/editviewer.html#getstyle) & [`updateStyle()`]({{ site.api }}class/editviewer.html#updatestyle).
 
 **Use case**
 

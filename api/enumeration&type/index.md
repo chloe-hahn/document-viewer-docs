@@ -10,7 +10,7 @@ description: Dynamsoft Document Viewer Documentation API Reference Enumerations 
 permalink: /api/enumeration-type/index.html
 ---
 
-# DDV Enumeration & Type
+# Dynamsoft Document Viewer Enumeration & Type
 
 - [`EnumPdfPageType`]({{ site.api }}enumeration-type/enumpdfpagetype.html)
 - [`EnumPdfCompressionType`]({{ site.api }}enumeration-type/enumpdfcompressiontype.html)

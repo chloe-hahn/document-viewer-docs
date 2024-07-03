@@ -6,7 +6,7 @@ noTitleIndex: true
 title: Dynamsoft Document Viewer API Reference - Namespace - Dynamsoft.DDV
 keywords: Documentation, Dynamsoft Document Viewer, API Reference, Namespace, Dynamsoft.DDV
 breadcrumbText: Dynamsoft.DDV
-description: Dynamsoft Document Viewer Documentation API Reference Namespace Dynamsoft.DDV Page
+description: Dynamsoft Document Viewer Documentation API Reference Namespace Dynamsoft.Dynamsoft Document Viewer Page
 permalink: /api/namespace/ddv.html
 ---
 
@@ -18,7 +18,7 @@ permalink: /api/namespace/ddv.html
 
 | API Name                        | Description                                       |
 | ------------------------------- | ------------------------------------------------- |
-| [`<static> setProcessingHandler()`](#static-setprocessinghandler) | Set a processing handler to the DDV system.       |
+| [`<static> setProcessingHandler()`](#static-setprocessinghandler) | Set a processing handler to the Dynamsoft Document Viewer system.       |
 
 **Members**
 
@@ -45,7 +45,7 @@ permalink: /api/namespace/ddv.html
 | ------------------------------- | ------------------------------------------------- |
 | [`<static> getDefaultUiConfig()`](#static-getdefaultuiconfig)   | Get default UiConfig object.                      |
 | [`<static> clearLastError()`](#static-clearlasterror)       | Clear the last error or warning.                  |
-| [`<static> unload()`](#static-unload)               | Unload all DDV resources.                         |
+| [`<static> unload()`](#static-unload)               | Unload all Dynamsoft Document Viewer resources.                         |
 
 **Properties**
 
@@ -66,13 +66,13 @@ permalink: /api/namespace/ddv.html
 | ---------- | ----------------------------------- |
 | [`error`](#error)      | Triggered when any error occurs.    |
 | [`warning`](#warning)    | Triggered when any warning occurs . |
-| [`verbose`](#verbose)    | Triggered when DDV is running.      |
+| [`verbose`](#verbose)    | Triggered when Dynamsoft Document Viewer is running.      |
 
 ## Handler Configuration
 
 ### `<static>` setProcessingHandler()
 
-Set a processing handler to the DDV system.
+Set a processing handler to the Dynamsoft Document Viewer system.
 
 **Syntax**
 
@@ -130,7 +130,7 @@ const docManager = Dynamsoft.DDV.documentManager;
 | ------------------------------- | ------------------------------------------------- |
 | [`<static> getDefaultUiConfig()`](#static-getdefaultuiconfig)   | Get default UiConfig object.                      |
 | [`<static> clearLastError()`](#static-clearlasterror)       | Clear the last error or warning.                  |
-| [`<static> unload()`](#static-unload)               | Unload all DDV resources.                         |
+| [`<static> unload()`](#static-unload)               | Unload all Dynamsoft Document Viewer resources.                         |
 
 ### `<static>` getDefaultUiConfig()
 
@@ -184,7 +184,7 @@ static clearLastError(): void;
 
 ### `<static>` unload()
 
-Unload all DDV resources.
+Unload all Dynamsoft Document Viewer resources.
 
 **Syntax**
 
@@ -287,7 +287,7 @@ Dynamsoft.DDV.off("error");
 | ---------- | ----------------------------------- |
 | [`error`](#error)      | Triggered when any error occurs.    |
 | [`warning`](#warning)    | Triggered when any warning occurs . |
-| [`verbose`](#verbose)    | Triggered when DDV is running.      |
+| [`verbose`](#verbose)    | Triggered when Dynamsoft Document Viewer is running.      |
 
 #### error
 
@@ -315,7 +315,7 @@ An EventObject which contains the detailed warning info.
 
 #### verbose
 
-Triggered when DDV is running.
+Triggered when Dynamsoft Document Viewer is running.
 
 **Callback**
 

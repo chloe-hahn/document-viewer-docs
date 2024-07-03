@@ -12,13 +12,13 @@ permalink: /features/index.html
 
 # Features
 
-Generally, the key features of DDV are shown as below.
+Generally, the key features of Dynamsoft Document Viewer are shown as below.
 
 ## Data Management
 
 Data management is to manage the data which is imported into DDV. 
 
-How does DDV implement data management? First of all, there are two concepts which need to be introduced, document and page. 
+How does Dynamsoft Document Viewer implement data management? First of all, there are two concepts which need to be introduced, document and page. 
 
 Page can be understood as a page, currently an image, which is the smallest unit of managing data. Each page has a unique pageUid. 
 
@@ -35,7 +35,7 @@ Actually, if you are using the default UI of DDV, the data has been processed an
 
 ## Viewers
 
-Viewers are used to display the data. According to the different uses of viewers, DDV provides five different viewer types, which are implemented through five viewer classes.
+Viewers are used to display the data. According to the different uses of viewers, Dynamsoft Document Viewer provides five different viewer types, which are implemented through five viewer classes.
 
 - [Edit Viewer]({{ site.features}}viewers/editviewer.html)
 - [Capture Viewer]({{ site.features }}viewers/captureviewer.html)

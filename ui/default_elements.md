@@ -13,7 +13,7 @@ permalink: /ui/default_elements.html
 
 # Built-in Elements
 
-DDV provides many built-in elements which have their own designed icons and bind to specific event to call the according APIs, have state interaction with viewer as well as between elements.
+Dynamsoft Document Viewer provides many built-in elements which have their own designed icons and bind to specific event to call the according APIs, have state interaction with viewer as well as between elements.
 
 Specific Elements can only be applied to specific viewers. For example, `Dynamsoft.DDV.Elements.Zoom` can only be applied in `EditViewer`, and `Dynamsoft.DDV.Elements.Capture` can only be applied in `CaptureViewer`.
 

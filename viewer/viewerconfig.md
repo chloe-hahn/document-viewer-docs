@@ -43,7 +43,7 @@ interface EditViewerConfig {
 
 ## Default viewerConfig
 
-DDV will provide the default viewerConfig for each viewer.
+Dynamsoft Document Viewer will provide the default viewerConfig for each viewer.
 
 <div class="multi-panel-switching-prefix"></div>
 

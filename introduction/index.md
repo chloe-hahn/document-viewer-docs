@@ -26,8 +26,8 @@ Key features include:
     - [Browse Viewer]({{ site.features }}viewers/others.html#browse-viewer)
     - [Custom Viewer]({{ site.features }}viewers/others.html#custom-viewer)
 
-Additionally, DDV enhances functionality by allowing integration with customized image filtering processes and document boundary detection processes. It is particularly recommended to use [Dynamsoft Document Normalizer](https://www.dynamsoft.com/document-normalizer/docs/web/programming/javascript/){:target="_blank"} for document detection.
+Additionally, Dynamsoft Document Viewer enhances functionality by allowing integration with customized image filtering processes and document boundary detection processes. It is particularly recommended to use [Dynamsoft Document Normalizer](https://www.dynamsoft.com/document-normalizer/docs/web/programming/javascript/){:target="_blank"} for document detection.
 
-DDV enables the seamless creation of a document management web application tailored to your specific workflow, user interface, and style needs.
+Dynamsoft Document Viewer enables the seamless creation of a document management web application tailored to your specific workflow, user interface, and style needs.
 
-As a component of the [Mobile Web Capture](https://www.dynamsoft.com/use-cases/mobile-web-capture-sdk/?utm_content=nav-solutions) solution, DDV is detailed in this documentation to assist developers in exploring and utilizing its extensive features effectively.
+As a component of the [Mobile Web Capture](https://www.dynamsoft.com/use-cases/mobile-web-capture-sdk/?utm_content=nav-solutions) solution, Dynamsoft Document Viewer is detailed in this documentation to assist developers in exploring and utilizing its extensive features effectively.

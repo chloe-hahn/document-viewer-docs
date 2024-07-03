@@ -14,7 +14,7 @@ permalink: /ui/customize/elements.html
 
 ## Customize default elements
 
-Although DDV provides many default elements, some customizations are also required, such as, to unify icon style with the original system, to add tooltips and so on.
+Although Dynamsoft Document Viewer provides many default elements, some customizations are also required, such as, to unify icon style with the original system, to add tooltips and so on.
 
 <div class="multi-panel-switching-prefix"></div>
 
@@ -78,7 +78,7 @@ captureViewer.on("myClick", (e) => {
 
 <div class="multi-panel-start"></div>
 
-DDV does not provide the default tooptips to the default elements, developers can configure it by use [`getTooltip()`]({{ site.api }}namespace/ddv_elements.html#static-gettooltip) and [`setTooltip()`]({{ site.api }}namespace/ddv_elements.html#static-settooltip) easily. 
+Dynamsoft Document Viewer does not provide the default tooptips to the default elements, developers can configure it by use [`getTooltip()`]({{ site.api }}namespace/ddv_elements.html#static-gettooltip) and [`setTooltip()`]({{ site.api }}namespace/ddv_elements.html#static-settooltip) easily. 
 
 >It must be set before creating the viewer.
 
@@ -102,7 +102,7 @@ const editViewer = new Dynamsoft.DDV.EditViewer({
 
 <div class="multi-panel-start"></div>
 
-If any accompanying display texts are required to add or change of the default elements, DDV provides the methods [`getDisplayTextConfig()`]({{ site.api }}namespace/ddv_elements.html#static-getdisplaytextconfig) and [`setDisplayTextConfig()`]({{ site.api }}namespace/ddv_elements.html#static-setdisplaytextconfig) for this requirement. 
+If any accompanying display texts are required to add or change of the default elements, Dynamsoft Document Viewer provides the methods [`getDisplayTextConfig()`]({{ site.api }}namespace/ddv_elements.html#static-getdisplaytextconfig) and [`setDisplayTextConfig()`]({{ site.api }}namespace/ddv_elements.html#static-setdisplaytextconfig) for this requirement. 
 
 >It must be set before creating the viewer.
 

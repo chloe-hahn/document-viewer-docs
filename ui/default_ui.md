@@ -12,7 +12,7 @@ permalink: /ui/default_ui.html
 
 # Default User Interface
 
-It can be seen from Viewers part, DDV provides the default UI design for the edit viewer, capture viewer and perspective viewer. They basically contain the main features of each type of viewer. 
+It can be seen from Viewers part, Dynamsoft Document Viewer provides the default UI design for the edit viewer, capture viewer and perspective viewer. They basically contain the main features of each type of viewer. 
 
 <div class="multi-panel-switching-prefix"></div>
 

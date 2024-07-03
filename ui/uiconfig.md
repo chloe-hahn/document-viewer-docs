@@ -14,7 +14,7 @@ permalink: /ui/uiconfig.html
 
 # UiConfig
 
-First, we need to know how DDV creates the UI. DDV has an interface named `UiConfig`, which is used to configure the layout and the elements includes. And UiConfig can be nested to achieve a complex layout.
+First, we need to know how Dynamsoft Document Viewer creates the UI. Dynamsoft Document Viewer has an interface named `UiConfig`, which is used to configure the layout and the elements includes. And UiConfig can be nested to achieve a complex layout.
 
 ## Structure
 
@@ -44,7 +44,7 @@ const mobileEditViewerUiConfig = {
 ```
 
 - When [`type`]({{ site.api }}interface/uiconfig.html#type) is set to `Dynamsoft.DDV.Elements.Layout` and flexDirection is `column`, it means the layout is from top to bottom.
-- `Dynamsoft.DDV.Elements.MainView` is one of the default elements DDV provides. Learn more about default elements.
+- `Dynamsoft.DDV.Elements.MainView` is one of the default elements Dynamsoft Document Viewer provides. Learn more about default elements.
 
 Next, the specific configuration of headerUiConfig, it can be seen that the icons are arranged from left to right, then
 
