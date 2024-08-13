@@ -16,6 +16,7 @@ permalink: /releasenotes/index.html
 **We are excited to introduce version 2.0, which focuses on adding a powerful new annotation feature. This release includes comprehensive support for various types of annotations, new APIs for managing annotations, and advanced UI capabilities for seamless interaction.**
 
 Supported Annotation Types:
+
     - [Rectangle]({{ site.api }}class/annotation/rectangle.html)
     - [Ellipse]({{ site.api }}class/annotation/ellipse.html)
     - [Polygon]({{ site.api }}class/annotation/polygon.html)
