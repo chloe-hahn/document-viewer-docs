@@ -17,15 +17,15 @@ permalink: /releasenotes/index.html
 
 Supported Annotation Types:
 
-    - [Rectangle]({{ site.api }}class/annotation/rectangle.html)
-    - [Ellipse]({{ site.api }}class/annotation/ellipse.html)
-    - [Polygon]({{ site.api }}class/annotation/polygon.html)
-    - [Polyline]({{ site.api }}class/annotation/polyline.html)
-    - [Line]({{ site.api }}class/annotation/line.html)
-    - [Ink]({{ site.api }}class/annotation/ink.html)
-    - [TextBox]({{ site.api }}class/annotation/textbox.html)
-    - [TextTypewriter]({{ site.api }}class/annotation/texttypewriter.html)
-    - [Stamp]({{ site.api }}class/annotation/stamp.html)
+- [Rectangle]({{ site.api }}class/annotation/rectangle.html)
+- [Ellipse]({{ site.api }}class/annotation/ellipse.html)
+- [Polygon]({{ site.api }}class/annotation/polygon.html)
+- [Polyline]({{ site.api }}class/annotation/polyline.html)
+- [Line]({{ site.api }}class/annotation/line.html)
+- [Ink]({{ site.api }}class/annotation/ink.html)
+- [TextBox]({{ site.api }}class/annotation/textbox.html)
+- [TextTypewriter]({{ site.api }}class/annotation/texttypewriter.html)
+- [Stamp]({{ site.api }}class/annotation/stamp.html)
 
 ###  Built-in UI for Annotation
  
