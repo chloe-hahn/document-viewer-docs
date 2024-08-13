@@ -45,6 +45,12 @@ Supported Annotation Types:
     - Adjust annotation hierarchy
     - Handle events triggered by annotation operations.
  
+- Added the property [`annotationConfig`]({{ site.api }}interface/editviewerconstructoroptions.html#annotationConfig) to `EditViewerConstructorOptions` for configuring the annotations in the viewer, including the toolbar, palette, and default annotation style:
+ 
+    - [annotationSelectionStyle]({{ site.api }}interface/annotationconfig.html#annotationSelectionStyle): Defines the style of annotation selection.
+    - [inkCreateDelay]({{ site.api }}interface/annotationconfig.html#inkCreateDelay): Specifies the delay for ink creation to support annotations created in multiple strokes.
+    - [showOnTopWhenSelected]({{ site.api }}interface/annotationconfig.html#showOnTopWhenSelected): Determines whether the selected annotation should be displayed on the top layer.
+    
 - Added the method [`<static> addFonts()`]({{ site.api }}namespace/ddv.html#static-addfonts) to add fonts to the library.
  
 - Added the method [`selectAnnotations()`]({{ site.api }}class/editviewer.html#selectannotations) to select the specified annotation(s) on the current page.
@@ -52,12 +58,6 @@ Supported Annotation Types:
 - Added the method [`getSelectedAnnotations()`]({{ site.api }}class/editviewer.html##getselectedannotations) to retrieve selected annotation(s).
  
 - Add properties [`mediaBox`]({{ site.api }}interface/idocument/pagedata.html#mediaBox) and [`cropBox`]({{ site.api }}interface/idocument/pagedata.html#cropBox) to `PageData` for accurate annotation position calculation.
- 
-- Added the property [`annotationConfig`]({{ site.api }}interface/editviewerconstructoroptions.html#annotationConfig) to `EditViewerConstructorOptions` for configuring the annotations in the viewer, including the toolbar, palette, and default annotation style:
- 
-    - [annotationSelectionStyle]({{ site.api }}interface/annotationconfig.html#annotationSelectionStyle): Defines the style of annotation selection.
-    - [inkCreateDelay]({{ site.api }}interface/annotationconfig.html#inkCreateDelay): Specifies the delay for ink creation to support annotations created in multiple strokes.
-    - [showOnTopWhenSelected]({{ site.api }}interface/annotationconfig.html#showOnTopWhenSelected): Determines whether the selected annotation should be displayed on the top layer. .
  
 - Added the property [`annotationMode`]({{ site.api }}class/editviewer.html#annotationmode) to specify or return the annotation mode of the viewer.
  
